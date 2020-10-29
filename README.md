@@ -1,8 +1,5 @@
 ---
----
-
 ## Applied Text Mining in Python
----
 ---
 
 ### Module 1
